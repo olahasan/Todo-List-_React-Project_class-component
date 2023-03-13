@@ -39,7 +39,7 @@ addItem = (item)=>{
 render(){
     return(
       <div className='App container'>
-       <h1 className='Text-center'>Todo list ola</h1>
+       <h1 className='Text-center'>Todo list olaa</h1>
        <TodoItems  items={this.state.items} deleteItem={this.deleteItem}/>
        <Additems addItem={this.addItem}/>
       </div>
