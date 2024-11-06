@@ -80,8 +80,7 @@ Otherwise, all links will open in the same tab.
 
  ## Screenshot
  
-![Screenshot](./images/screenshot.png)
-
+![Screenshot](./public/todoList.png)
 
 
 ## what-i-learned
