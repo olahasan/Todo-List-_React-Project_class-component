@@ -13,9 +13,9 @@ This is a simple Todo List application built with ReactJs [class-component]. It 
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Links](#Links)
-  - [Screenshot](#Screenshot)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+- [Screenshot](#Screenshot)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#Acknowledgments)
 
