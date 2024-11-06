@@ -8,8 +8,8 @@ class App extends Component{
   
 state={
   items:[
-    // {id:1, name:'ola', age:27},
-    // {id:2, name:'ali', age:28},
+    // {id:1, name:'mai', age:27},
+    // {id:2, name:'alaa', age:28},
     // {id:3, name:'mona', age:50}
   ]
 }
