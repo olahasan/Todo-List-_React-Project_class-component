@@ -89,7 +89,6 @@ how to add and delete item and how to deploy it on Surge.sh
 
 ## Continued Development
 In the future, I plan to:
-- Add more categories and questions.
 - learn reactJs Hooks.
 
 ### Author
