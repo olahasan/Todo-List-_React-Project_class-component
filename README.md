@@ -74,9 +74,9 @@ If you want to open the link in a new tab, you can:
 Otherwise, all links will open in the same tab.
 
 
-- Solution URL: [here](https://github.com/olahasan/quiz-application)
+- Solution URL: [here](https://github.com/olahasan/Todo-List-_React-Project_class-component/tree/main)
 
-- Live Site URL: [here](https://olahasan.github.io/quiz-application/)
+- Live Site URL: [here](https://simple-todo-list-app-classes.surge.sh/)
 
  ## Screenshot
  
