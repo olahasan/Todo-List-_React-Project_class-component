@@ -49,7 +49,7 @@ To get started with this project, follow these steps:
 you can clone the project or download it as Zip file.
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/olahasan/Todo-List-_React-Project_class-component
 
 2. Navigate to the project directory:
    cd <project-directory>
